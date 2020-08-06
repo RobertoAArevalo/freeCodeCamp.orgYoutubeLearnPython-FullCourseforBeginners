@@ -24,4 +24,4 @@ friends = ["Kevin", "Karen", "Jim", "Jim", "Oscar","Toby"]
 friends2 = friends.copy() # This will copy the list
 print(friends2)
 
-#These are some basic list functions.
+#These are some basic list functions..
