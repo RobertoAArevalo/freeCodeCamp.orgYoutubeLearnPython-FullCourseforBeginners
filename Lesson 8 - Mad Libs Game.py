@@ -17,4 +17,4 @@ print("I love " + celebrity)
 
 # With setting variables to user inputs, a program can be created that generate a story.
 
-#a
+#aa
